@@ -111,7 +111,6 @@ Os dados coletados foram analisados e visualizados com o auxílio de gráficos e
 
 ### Repositório
 
-Você pode acessar o código completo e os dados no seguinte link:
-Repositório de Coleta e Análise de Dados
+Você pode acessar o relatório no seguinte link:
 
-- `google-api-python-client`
+[Relatório de Coleta de Dados - Nuvem de Palavras](AMS___Nuvem_de_Palavras.pdf)
